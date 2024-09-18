@@ -1,7 +1,7 @@
 # Task Tracker CLI
 
 Creating projects from Developer Roadmps. This one uses Python. Find this project and more here: https://roadmap.sh/projects/task-tracker 
-
+This is a reupload to Github from my Gitlab repository: https://gitlab.com/ZippyZappy/task-tracker-cli
 ## Getting started
 
 1. This project requires having at least the version 3 of Python installed.
